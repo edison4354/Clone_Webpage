@@ -1,5 +1,9 @@
-
-
+a {
+  color: black;
+  font-family: "Gotham Book SSm", "Gotham Book", "system", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
 
 .header { 
   background-image: url("http://tesla-cdn.thron.com/delivery/public/image/tesla/27d0055c-b0bf-476c-b3aa-ec59d314f871/bvlatuR/std/2880x2400/Desktop-SolarPanels");
